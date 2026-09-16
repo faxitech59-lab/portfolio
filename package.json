@@ -1,0 +1,15 @@
+{
+  "name": "product-ad-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cinematic product advertising portfolio for food, pet, home, household and consumer brands.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {}
+}

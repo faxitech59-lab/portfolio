@@ -1,0 +1,17 @@
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+.env
+.env.*
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+.vscode/
+.idea/
+
+# Uncomment if you keep large source footage beside the site and do not
+# want it pushed to GitHub. Railway serves whatever is committed.
+# public/assets/videos/*.mp4
