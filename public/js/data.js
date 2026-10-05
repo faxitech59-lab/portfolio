@@ -89,11 +89,11 @@ const PROJECTS = [
     tags: ["food"],
     description:
       "A set of cut-downs built from one shoot, sized for feed, story and pre-roll.",
-    thumbnail: "assets/images/thumb-05-beverage.svg",
-    alt: "Beverage can standing in a pool of rim light",
-    video: "",
+    thumbnail: "assets/images/thumb-beverage.svg",
+    alt: "Samyang instant noodle packets with a steaming bowl of noodles",
+    video: "assets/videos/food and beaverge.mp4",
     preview: "",
-    duration: "0:30",
+    duration: "0:10",
     format: "16:9",
     size: "md"
   },
