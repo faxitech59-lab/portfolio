@@ -33,11 +33,11 @@ const PROJECTS = [
     tags: ["pet", "food"],
     description:
       "A cinematic product advertisement created to showcase the product through engaging visual storytelling.",
-    thumbnail: "assets/images/thumb-01-pet-food.svg",
-    alt: "Pet food bowl lit as a product still on a dark set",
-    video: "",
+    thumbnail: "assets/images/thumb-pet-food.svg",
+    alt: "Taily chicken and rice dog food bag displayed with fresh ingredients",
+    video: "assets/videos/premuin pet food.mp4",
     preview: "",
-    duration: "0:30",
+    duration: "0:10",
     format: "16:9",
     size: "lg"
   },
@@ -47,11 +47,11 @@ const PROJECTS = [
     tags: ["food"],
     description:
       "Packaging, texture and appetite appeal built into a single continuous product sequence.",
-    thumbnail: "assets/images/thumb-02-food-product.svg",
-    alt: "Packaged food jar photographed against a dark backdrop",
-    video: "",
+    thumbnail: "assets/images/thumb-food-product.svg",
+    alt: "Iber Cacao chocolate bar held in hand with gold foil",
+    video: "assets/videos/food product commercial.mp4",
     preview: "",
-    duration: "0:20",
+    duration: "0:10",
     format: "16:9",
     size: "sm"
   },
@@ -61,11 +61,11 @@ const PROJECTS = [
     tags: ["home"],
     description:
       "A quiet, warm treatment that places the product inside the room it belongs in.",
-    thumbnail: "assets/images/thumb-03-home-product.svg",
-    alt: "Ceramic home object shaped by soft directional light",
-    video: "",
+    thumbnail: "assets/images/thumb-home-product.svg",
+    alt: "Xpert air fryer with cooked food in a bright kitchen",
+    video: "assets/videos/home product commercial.mp4",
     preview: "",
-    duration: "0:25",
+    duration: "0:08",
     format: "16:9",
     size: "sm"
   },
@@ -75,11 +75,11 @@ const PROJECTS = [
     tags: ["cleaning", "home"],
     description:
       "Motion, surface and result shown in sequence so the product's job reads in seconds.",
-    thumbnail: "assets/images/thumb-04-household.svg",
-    alt: "Spray bottle rendered as a clean product hero shot",
-    video: "",
+    thumbnail: "assets/images/thumb-household.svg",
+    alt: "Spirit water bottle on a desk beside a laptop",
+    video: "assets/videos/house hold product ad.mp4",
     preview: "",
-    duration: "0:15",
+    duration: "0:08",
     format: "9:16",
     size: "lg"
   },
@@ -103,13 +103,27 @@ const PROJECTS = [
     tags: ["consumer"],
     description:
       "Form and detail carried by camera movement rather than on-screen copy.",
-    thumbnail: "assets/images/thumb-06-consumer.svg",
-    alt: "Geometric consumer product form floating in darkness",
-    video: "",
+    thumbnail: "assets/images/thumb-consumer.svg",
+    alt: "Sunsilk shampoo bottles in a bright studio setting",
+    video: "assets/videos/consumer.mp4",
     preview: "",
-    duration: "0:20",
+    duration: "0:08",
     format: "16:9",
     size: "md"
+  },
+  {
+    title: "Cleaning Product Ad",
+    category: "Cleaning · Household",
+    tags: ["cleaning"],
+    description:
+      "Dirt, spray, and shine — a results-driven cleaning demonstration cut for vertical feeds.",
+    thumbnail: "assets/images/thumb-cleaning.svg",
+    alt: "Hand spraying blue cleaning spray on a dirty countertop",
+    video: "assets/videos/clening.mp4",
+    preview: "",
+    duration: "0:10",
+    format: "9:16",
+    size: "lg"
   }
 ];
 
@@ -123,11 +137,11 @@ const PROJECTS = [
 const FEATURED = {
   title: "Premium Pet Food Campaign",
   category: "Pet Food · Commercial Advertising",
-  thumbnail: "assets/images/featured-pet-food.svg",
-  alt: "Pet food campaign hero frame lit as a cinematic product still",
-  video: "",
+  thumbnail: "assets/images/thumb-pet-food.svg",
+  alt: "Taily chicken and rice dog food bag displayed with fresh ingredients",
+  video: "assets/videos/premuin pet food.mp4",
   preview: "",
-  duration: "0:45",
+  duration: "0:10",
   format: "16:9",
   breakdown: [
     { label: "Concept", text: "Product-focused commercial storytelling." },
